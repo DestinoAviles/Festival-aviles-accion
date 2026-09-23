@@ -1,0 +1,6 @@
+{
+  "name": "Avilés Acción",
+  "description": "Festival de Cortometrajes de Avilés (25º Aniversario) - Agenda diaria, catálogo de secciones, venta de entradas y noticias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
